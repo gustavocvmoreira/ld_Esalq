@@ -14,6 +14,7 @@ Instruções:
 - PNAD Contínua_4 trimestre_2021, microdados e documentação disponível em: https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html?caminho=Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Trimestral/Microdados/2021
 
 - Dados SINAN. Acessar: https://datasus.saude.gov.br/transferencia-de-arquivos/
+
 Em fonte: SINAN - Sistema de Informação de Agravos de Notificação
 
 Em modalidade, clicar em Dados (posteriormente em Documentação, para acessar o dicionário)
